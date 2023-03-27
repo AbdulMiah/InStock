@@ -1,0 +1,6 @@
+[submodule "instock-backend"]
+	path = instock-backend
+	url = https://github.com/AbdulMiah/instock-backend.git
+[submodule "instock-mobile"]
+	path = instock-mobile
+	url = https://github.com/AbdulMiah/instock-mobile.git
