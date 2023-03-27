@@ -1,1 +1,0 @@
-### InStock Backend Application
